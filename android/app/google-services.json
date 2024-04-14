@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508053388777",
+    "project_id": "dealstore-cb799",
+    "storage_bucket": "dealstore-cb799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508053388777:android:6f9fbb86f705bb1fbc9f78",
+        "android_client_info": {
+          "package_name": "com.phinion.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxOVPMIzevGWYs8MyruqBzED7SlN8kqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
